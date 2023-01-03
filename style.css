@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'azuki_font';
+  src: url('/azuki.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  color: #cfa0bc;
+  font-family: 'azuki_font';
+  background-image: linear-gradient(to right, #ad8593, #aa76a2);
+  font-size: 24px;
+  padding-top: 30px;
+  width: 60%;
+  margin: auto;
+  word-break: break-all;
+}
+
+a {
+  color: #1b0904;
+}
+
+a:hover {
+  color: #49293c
+}
+
+li {
+  font-size: 28px;
+}
