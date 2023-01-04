@@ -28,3 +28,7 @@ a:hover {
 li {
   font-size: 28px;
 }
+
+.alert {
+  color: #7e0000;
+}
